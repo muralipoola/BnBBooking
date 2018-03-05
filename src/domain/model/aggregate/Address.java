@@ -1,4 +1,6 @@
-package domain.model.common;
+package domain.model.aggregate;
+
+import domain.model.common.ValueObject;
 
 import java.util.Objects;
 
